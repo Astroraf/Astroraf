@@ -62,7 +62,7 @@ Accuracy was improved using feature engineering, one-hot encoding, and feature s
 
 **Libraries Utilized**: Sckit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
-###[ Yelp ETL Project Analysis: ](https://github.com/Astroraf/Yelp_Project)<br>
+### [ Yelp ETL Project Analysis: ](https://github.com/Astroraf/Yelp_Project)<br>
 Exploration of data in Yelp's API to help businesses determine where to setup a business. In this specific 
 case, the option of opening a Yoga studio in either New York City or London. First immersive project for 
 the Flatiron School Data Science Immersive Program. <br>
