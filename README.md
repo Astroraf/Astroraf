@@ -90,17 +90,20 @@ src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&lo
 
 ## My Statistics
 
-<br/>
-<p align="left">
-  <a href="https://github.com/astroraf">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=astroraf&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=astroraf&theme=gruvbox&hide_border=true" />
-  </a>
+
+
+ 
+ 
+ <br/> 
+<p>
+
+<a align= "center" href="https://github.com/astroraf">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=astroraf&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
 </p>
-<br>
+<br/>
 
-
-[![Rafael Ferreira's Activity Graph](https://activity-graph.herokuapp.com/graph?username=astroraf&custom_title=Rafael%20Ferreira's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/astroraf)
 
 
 
