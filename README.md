@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Rafael Ferreira<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Data Scientist with background in Astrophysics living in Lisbon, Portugal.</h3>
+<h3 font-size="20" align="center">A Data Scientist with background in Astrophysics</h3>
 
 <img align="right" height="265px" alt="hello_there" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"
  width = "400" height="280">
